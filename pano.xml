@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.10" start="node2" apprev="18007">
+  <panorama id="node2">
+    <input overlap="1" height="1520" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="1520" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="144.68">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" fov="120" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" tags="Nicado-Roxi" heading="144.68" altitude="-30.90" latitude="25.86275121" author="" longitude="-80.26610882" customnodeid="" datetime="4/19/2021 2:18 PM" source="" comment="" title="IMG_20210419_141815_00_118.insp" copyright="" description="" nodeid="node2"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" textalpha="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" width="180" background="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node3}" distance="3.01974" id="Point01" target="" tilt="-13.67" title="IMG_20210419_141900_00_119.insp" pan="-124.72" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomout="0" zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafteroutfov="20" softedge="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" simulatemass="1" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" speedwheel="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input overlap="1" height="1520" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="1520" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" fov="120" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" tags="Nicado-Roxi" heading="0" altitude="-31.60" latitude="25.86275121" author="" longitude="-80.26613900" customnodeid="" datetime="4/19/2021 2:19 PM" source="" comment="" title="IMG_20210419_141900_00_119.insp" copyright="" description="" nodeid="node3"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" textalpha="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" width="180" background="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node4}" distance="4.12894" id="Point01" target="" tilt="-14.57" title="IMG_20210419_141949_00_120.insp" pan="-145.15" description="" skinid="ht_node"/>
+      <hotspot url="{node7}" distance="2.04153" id="Point02" target="" tilt="-16.4" title="IMG_20210419_142328_00_123.insp" pan="-109.47" description="" skinid="ht_node"/>
+      <hotspot url="{node2}" distance="3.01974" id="Point03" target="" tilt="-5.75" title="IMG_20210419_141815_00_118.insp" pan="-340.29" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomout="0" zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafteroutfov="20" softedge="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" simulatemass="1" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" speedwheel="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input overlap="1" height="1520" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="1520" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" fov="120" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" tags="Nicado-Roxi" heading="0" altitude="-29.00" latitude="25.86275060" author="" longitude="-80.26618026" customnodeid="" datetime="4/19/2021 2:19 PM" source="" comment="" title="IMG_20210419_141949_00_120.insp" copyright="" description="" streetviewlink="https://www.google.com/maps/@25.8627506,-80.2661803,3a,75y,90t/data=!3m4!1e1!3m2!1sAF1QipP2lB1FjivLST-zzWFQNZE-bkG6c5N__ArLnODS!2e10" nodeid="node4"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" textalpha="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" width="180" background="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node5}" distance="3.42577" id="Point01" target="" tilt="-14.01" title="IMG_20210419_142123_00_121.insp" pan="-133.04" description="" skinid="ht_node"/>
+      <hotspot url="{node3}" distance="4.12894" id="Point02" target="" tilt="-5.57" title="IMG_20210419_141900_00_119.insp" pan="-327.07" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomout="0" zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafteroutfov="20" softedge="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" simulatemass="1" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" speedwheel="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input overlap="1" height="1520" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="1520" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" fov="120" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" tags="Nicado-Roxi" heading="0" altitude="-26.30" latitude="25.86275205" author="" longitude="-80.26621446" customnodeid="" datetime="4/19/2021 2:21 PM" source="" comment="" title="IMG_20210419_142123_00_121.insp" copyright="" description="" nodeid="node5"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" textalpha="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" width="180" background="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node6}" distance="3.39799" id="Point01" target="" tilt="-28.89" title="IMG_20210419_142212_00_122.insp" pan="-184.55" description="" skinid="ht_node"/>
+      <hotspot url="{node4}" distance="3.42577" id="Point02" target="" tilt="-12.05" title="IMG_20210419_141949_00_120.insp" pan="-52.29" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomout="0" zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafteroutfov="20" softedge="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" simulatemass="1" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" speedwheel="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input overlap="1" height="1520" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="1520" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" fov="120" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" tags="Nicado-Roxi" heading="0" altitude="-24.50" latitude="25.86273432" author="" longitude="-80.26624212" customnodeid="" datetime="4/19/2021 2:22 PM" source="" comment="" title="IMG_20210419_142212_00_122.insp" copyright="" description="" nodeid="node6"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" textalpha="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" width="180" background="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node5}" distance="3.39799" id="Point01" target="" tilt="-23.96" title="IMG_20210419_142123_00_121.insp" pan="-150.47" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomout="0" zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafteroutfov="20" softedge="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" simulatemass="1" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" speedwheel="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input overlap="1" height="1520" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="1520" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" fov="120" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" tags="Nicado-Roxi" heading="0" altitude="-28.90" latitude="25.86273286" author="" longitude="-80.26613833" customnodeid="" datetime="4/19/2021 2:23 PM" source="" comment="" title="IMG_20210419_142328_00_123.insp" copyright="" description="" nodeid="node7"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" textalpha="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" width="180" background="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node8}" distance="2.41521" id="Point01" target="" tilt="-32.36" title="IMG_20210419_142401_00_124.insp" pan="-128.48" description="" skinid="ht_node"/>
+      <hotspot url="{node13}" distance="2.16503" id="Point02" target="" tilt="-23.28" title="IMG_20210419_142648_00_128.insp" pan="-252.05" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomout="0" zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafteroutfov="20" softedge="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" simulatemass="1" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" speedwheel="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input overlap="1" height="1520" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="1520" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" fov="120" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" tags="Nicado-Roxi" heading="0" altitude="-25.20" latitude="25.86271114" author="" longitude="-80.26613817" customnodeid="" datetime="4/19/2021 2:24 PM" source="" comment="" title="IMG_20210419_142401_00_124.insp" copyright="" description="" nodeid="node8"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" textalpha="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" width="180" background="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node9}" distance="1.3275" id="Point01" target="" tilt="-23.39" title="IMG_20210419_142437_00_125.insp" pan="-333.22" description="" skinid="ht_node"/>
+      <hotspot url="{node7}" distance="2.41521" id="Point02" target="" tilt="-37.28" title="IMG_20210419_142328_00_123.insp" pan="-235.22" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomout="0" zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafteroutfov="20" softedge="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" simulatemass="1" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" speedwheel="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input overlap="1" height="1520" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="1520" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" fov="120" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" tags="Nicado-Roxi" heading="0" altitude="-26.60" latitude="25.86271053" author="" longitude="-80.26612492" customnodeid="" datetime="4/19/2021 2:24 PM" source="" comment="" title="IMG_20210419_142437_00_125.insp" copyright="" description="" nodeid="node9"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" textalpha="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" width="180" background="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node10}" distance="1.41039" id="Point01" target="" tilt="-23.76" title="IMG_20210419_142512_00_126.insp" pan="-347.35" description="" skinid="ht_node"/>
+      <hotspot url="{node11}" distance="1.74662" id="Point02" target="" tilt="-18.7" title="IMG_20210419_142555_00_127.insp" pan="-251.81" description="" skinid="ht_node"/>
+      <hotspot url="{node8}" distance="1.3275" id="Point03" target="" tilt="-33.64" title="IMG_20210419_142401_00_124.insp" pan="-169.51" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomout="0" zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafteroutfov="20" softedge="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" simulatemass="1" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" speedwheel="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input overlap="1" height="1520" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="1520" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" fov="120" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" tags="Nicado-Roxi" heading="0" altitude="-28.20" latitude="25.86270993" author="" longitude="-80.26611084" customnodeid="" datetime="4/19/2021 2:25 PM" source="" comment="" title="IMG_20210419_142512_00_126.insp" copyright="" description="" streetviewlink="https://www.google.com/maps/@25.8627099,-80.2661108,3a,75y,90t/data=!3m4!1e1!3m2!1sAF1QipM_TuCYd86loOLeH8BuMnbei69ERwow4wnyJnyC!2e10" nodeid="node10"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" textalpha="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" width="180" background="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node9}" distance="1.41039" id="Point01" target="" tilt="-28.73" title="IMG_20210419_142437_00_125.insp" pan="-194.25" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomout="0" zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafteroutfov="20" softedge="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" simulatemass="1" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" speedwheel="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input overlap="1" height="1520" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="1520" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" fov="120" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" tags="Nicado-Roxi" heading="0" altitude="-25.00" latitude="25.86272622" author="" longitude="-80.26612575" customnodeid="" datetime="4/19/2021 2:25 PM" source="" comment="" title="IMG_20210419_142555_00_127.insp" copyright="" description="" streetviewlink="https://www.google.com/maps/@25.8627262,-80.2661258,3a,75y,90t/data=!3m4!1e1!3m2!1sAF1QipPZOk0wP6-X2CKYwOaJo1IGixujf_4Iwbu6oIUU!2e10" nodeid="node11"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" textalpha="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" width="180" background="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node9}" distance="1.74662" id="Point01" target="" tilt="-23.41" title="IMG_20210419_142437_00_125.insp" pan="-242.35" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomout="0" zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafteroutfov="20" softedge="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" simulatemass="1" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" speedwheel="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input overlap="1" height="1520" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="1520" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" fov="120" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" tags="Nicado-Roxi" heading="0" altitude="-28.70" latitude="25.86273044" author="" longitude="-80.26615980" customnodeid="" datetime="4/19/2021 2:26 PM" source="" comment="" title="IMG_20210419_142648_00_128.insp" copyright="" description="" nodeid="node13"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" textalpha="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" width="180" background="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node14}" distance="2.28108" id="Point01" target="" tilt="-22.68" title="IMG_20210419_142736_00_129.insp" pan="-317.54" description="" skinid="ht_node"/>
+      <hotspot url="{node15}" distance="2.73442" id="Point02" target="" tilt="-18.43" title="IMG_20210419_142822_00_130.insp" pan="-51.94" description="" skinid="ht_node"/>
+      <hotspot url="{node7}" distance="2.16503" id="Point03" target="" tilt="-23.41" title="IMG_20210419_142328_00_123.insp" pan="-227.08" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomout="0" zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafteroutfov="20" softedge="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" simulatemass="1" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" speedwheel="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input overlap="1" height="1520" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="1520" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" fov="120" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" tags="Nicado-Roxi" heading="0" altitude="-25.10" latitude="25.86270994" author="" longitude="-80.26615895" customnodeid="" datetime="4/19/2021 2:27 PM" source="" comment="" title="IMG_20210419_142736_00_129.insp" copyright="" description="" streetviewlink="https://www.google.com/maps/@25.8627099,-80.266159,3a,75y,90t/data=!3m4!1e1!3m2!1sAF1QipPZR7M-GXab81j1YNFjZcr7LTU9ANaWa2ylHE_G!2e10" nodeid="node14"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" textalpha="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" width="180" background="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node13}" distance="2.28108" id="Point01" target="" tilt="-17.02" title="IMG_20210419_142648_00_128.insp" pan="-33.14" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomout="0" zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafteroutfov="20" softedge="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" simulatemass="1" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" speedwheel="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input overlap="1" height="1520" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="1520" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" fov="120" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" tags="Nicado-Roxi" heading="0" altitude="-24.70" latitude="25.86273105" author="" longitude="-80.26618712" customnodeid="" datetime="4/19/2021 2:28 PM" source="" comment="" title="IMG_20210419_142822_00_130.insp" copyright="" description="" nodeid="node15"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" textalpha="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" width="180" background="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node16}" distance="2.14717" id="Point01" target="" tilt="-20.69" title="IMG_20210419_142931_00_131.insp" pan="-231.12" description="" skinid="ht_node"/>
+      <hotspot url="{node13}" distance="2.73442" id="Point02" target="" tilt="-26.36" title="IMG_20210419_142648_00_128.insp" pan="-152.62" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomout="0" zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafteroutfov="20" softedge="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" simulatemass="1" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" speedwheel="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input overlap="1" height="1520" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="1520" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" fov="120" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" tags="Nicado-Roxi" heading="0" altitude="-23.80" latitude="25.86271174" author="" longitude="-80.26618711" customnodeid="" datetime="4/19/2021 2:29 PM" source="" comment="" title="IMG_20210419_142931_00_131.insp" copyright="" description="" streetviewlink="https://www.google.com/maps/@25.8627117,-80.2661871,3a,75y,90t/data=!3m4!1e1!3m2!1sAF1QipPnOyJPfsl5dUTU9O9weMLw4OkIJIM1PIiEoYlg!2e10" nodeid="node16"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label borderalpha="1" textalpha="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" width="180" background="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot url="{node15}" distance="2.14717" id="Point01" target="" tilt="-17.19" title="IMG_20210419_142822_00_130.insp" pan="-356.42" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomout="0" zoomoutpause="1" blendtime="1" enabled="1" type="crossdissolve" zoomafteroutfov="20" softedge="0" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertwheel="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" simulatemass="1" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" speedwheel="1" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata info="" tags="" heading="0" latitude="" author="" longitude="" customnodeid="" datetime="" source="" comment="" title="" copyright="" description="" nodeid="master"/>
+  </masternode>
+</tour>
